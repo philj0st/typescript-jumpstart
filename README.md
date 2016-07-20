@@ -79,6 +79,7 @@ Select Language Mode|`Ctrl` + `k`, `m`
 Switch focus to other tab|`ctrl` + `0-9` (0 for SideBar) </br> `ctrl` + `shift` + `alt` + `left or right`
 Show output console | `ctrl` + `shift` + `h`
 Autoindent | `ctrl` + `i`
+Duplicate line | `ctrl` + `shift` + `alt` + `up or down`
 
 ### FAQ
 What do I need to write Typescript?
